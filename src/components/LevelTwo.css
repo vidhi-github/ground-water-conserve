@@ -44,7 +44,7 @@
 }
 
 .message {
-  color: red;
+  color: rgb(176, 223, 25);
   font-weight: bold;
 }
 
@@ -53,5 +53,5 @@ h2{
 }
 
 p{
-  color: rgb(223, 25, 114);
+  color: rgb(176, 223, 25);
 }
