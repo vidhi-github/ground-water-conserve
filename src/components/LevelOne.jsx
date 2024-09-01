@@ -58,7 +58,7 @@ function LevelOne({ onLevelComplete }) {
   return (
     <div className="level-one">
       <h2>Level One: Drag Pipelines into Water Tanks</h2>
-      <p>Time Left: {timeLeft} seconds</p>
+      <p><b>Time Left: {timeLeft} seconds</b></p>
       <div className="tanks">
         {tanks.map((tank) => (
           <div
