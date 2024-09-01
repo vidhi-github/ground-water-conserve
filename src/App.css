@@ -1,0 +1,18 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url('village-background.png'); /* Add a village background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+  }
+  
+  h3 {
+    color: #fff;
+    text-shadow: 2px 2px 4px #000;
+  }
+  

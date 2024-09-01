@@ -1,0 +1,30 @@
+.avatar-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+  }
+  
+  .avatar-selection h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .avatar-selection button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .avatar-selection button:hover {
+    background-color: #45a049;
+  }
+  

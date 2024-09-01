@@ -1,0 +1,51 @@
+.level-one {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.tanks,
+.pipelines {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 10px 0;
+}
+
+.tank,
+.pipeline {
+  border: 2px solid #333;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  width: 150px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.tank {
+  background-color: #e0e0e0;
+  min-height: 100px;
+}
+
+.fresh {
+  border-color: #4caf50;
+}
+
+.sewage {
+  border-color: #f44336;
+}
+
+.muddy {
+  border-color: #ff9800;
+}
+
+.pipeline {
+  background-color: #f0f0f0;
+}
+
+.message {
+  color: red;
+  font-weight: bold;
+}
