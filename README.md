@@ -1,7 +1,7 @@
 **Educational Water Management Game -- Aqua Heroes**
 
 **Overview**
-Designed a React-based basic mobile/web application prototype for the Smart India Hackathon(2024), focusing on underground water management. It helps to educates players on managing various water sources through engaging and interactive levels.
+Designed a React-based basic mobile/web application prototype for presenting the idea at Smart India Hackathon(2024), focusing on underground water management. It helps to educates players on managing various water sources through engaging and interactive levels.
 
 **Features:**
 **1. Avatar Selection:** Choose between two avatars to start the game.
